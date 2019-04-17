@@ -16,7 +16,7 @@ We used single-cell RNA-sequencing technology to characterize the human embryoni
 
    BiocManager::install("monocle", version = "3.8")
 
-7. Download R codes (https://github.com/kimsc77/iMACs/issues/1)
+7. Download Dataset (https://github.com/kimsc77/iMACs/issues/1)
 
 1) Unzip iMACs.zip
 2) load iMACs.r
