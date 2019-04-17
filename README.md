@@ -19,8 +19,13 @@ We used single-cell RNA-sequencing technology to characterize the human embryoni
 7. Download Dataset (https://github.com/kimsc77/iMACs/issues/1)
 
 1) Unzip iMACs.zip
-2) load iMACs.r
+- matrix.mtx
+- barcodes.tsv
+- genes.tsv
 
-8. Download Dataset (https://github.com/kimsc77/iMACs/issues/2)
+8. Download R-code (https://github.com/kimsc77/iMACs/issues/2)
 
-9. Run iMACs.r using Rstudio
+1) Unzip iMACs_r_code.zip
+- iMACs_r_code.r
+
+9. Run iMACs_r_code.r using Rstudio
