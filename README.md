@@ -8,12 +8,17 @@ We used single-cell RNA-sequencing technology to characterize the human embryoni
 
 # command line
 3. install.packages("Shiny")
+4. install.packages("Seurat")
+5. install.packages("dplyr")
+6. if (!requireNamespace("BiocManager", quietly = TRUE))
+   install.packages("BiocManager")
+   BiocManager::install("monocle", version = "3.8")
 
-4. Download R codes (https://github.com/kimsc77/iMACs/issues/1)
+7. Download R codes (https://github.com/kimsc77/iMACs/issues/1)
 
 1) Unzip iMACs.zip
 2) load iMACs.r
 
-5. Download Dataset (https://github.com/kimsc77/iMACs/issues/2)
+8. Download Dataset (https://github.com/kimsc77/iMACs/issues/2)
 
-6. Run iMACs.r using Rstudio
+9. Run iMACs.r using Rstudio
