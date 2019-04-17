@@ -11,7 +11,9 @@ We used single-cell RNA-sequencing technology to characterize the human embryoni
 4. install.packages("Seurat")
 5. install.packages("dplyr")
 6. if (!requireNamespace("BiocManager", quietly = TRUE))
+
    install.packages("BiocManager")
+
    BiocManager::install("monocle", version = "3.8")
 
 7. Download R codes (https://github.com/kimsc77/iMACs/issues/1)
