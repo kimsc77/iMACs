@@ -1,6 +1,18 @@
 # Single-cell RNA-seq of human embryonic stem cell derived macrophage reveals distinct macrophage population
 
-We used single-cell RNA-sequencing technology to characterize the human embryonic stem cells-derived macrophages (iMACs). 3,323 cultured iMACs were sequenced and 2,931 cells were further analysed after filtering. Our data showed that iMACs were grouped into 8 clusters with various different characteristics, such as glycolytic metabolism, mitochondrial respiration, proliferation and antigen presenting. These data will facilitate better understanding of heterogeneity in embryonic stem cell derived-macrophages at single cell resolution.
+Macrophages exhibit high plasticity to achieve their roles in maintaining tissue homeostasis,
+innate immunity, tissue repair and regeneration. Therefore, macrophages are target
+candidates for a wide spectrum of therapeutic applications, including cell-based therapy.
+Therapeutic application of blood monocyte- or bone marrow-derived macrophages is
+hindered due to inadequate numbers and cellular heterogeneity. In contrast, pluripotent stem
+cell (PSC)-derived macrophages serve as an alternative source of macrophages; however,
+the inefficiency of available techniques in producing scalable, reproducible, homogenous
+macrophages remains a major limitation for therapeutic usage. Thus, we have developed a
+technique to produce embryonic stem cell-derived macrophages referred to as iMACs
+amenable for scale-up. The current study presents a large-scale transcriptome dataset of
+2,931 highly pure iMACs obtained by single-cell RNA sequencing. This dataset provides a
+valuable genomic profile for understanding the molecular characteristics of PSC-derived
+macrophage cells and uncovers cellular homogeneity
 
 # INSTALL & RUN
 1. Install R (www.r-project.org) & Rstudio (https://www.rstudio.com/)
