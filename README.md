@@ -29,7 +29,7 @@ macrophage cells and uncovers cellular homogeneity
    BiocManager::install("monocle", version = "3.8")
 
 7. Download Dataset 
-   1) (https://github.com/kimsc77/iMACs/issues/1)
+   1) https://github.com/kimsc77/iMACs/issues/1
    2) https://sites.google.com/site/computationalbiostatistics/data-sets
 
 (1) Unzip iMACs.zip & CMC3.zip
