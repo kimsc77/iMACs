@@ -39,7 +39,8 @@ macrophage cells and uncovers cellular homogeneity
 
 8. Download R-code (https://github.com/kimsc77/iMACs/issues/2)
 
-(1) Unzip iMACs_r_code.zip 
-- iMACs_r_code.r
+(1) Unzip R_codes.zip 
+- macropahge_scRNAseq.r
+- ILoReg_iMAC.r
 
-9. Run iMACs_r_code.r using Rstudio
+9. Run macropahge_scRNAseq.r & ILoReg_iMAC.r using Rstudio
