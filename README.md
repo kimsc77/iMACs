@@ -28,16 +28,18 @@ macrophage cells and uncovers cellular homogeneity
 
    BiocManager::install("monocle", version = "3.8")
 
-7. Download Dataset (https://github.com/kimsc77/iMACs/issues/1)
+7. Download Dataset 
+   1) (https://github.com/kimsc77/iMACs/issues/1)
+   2) https://sites.google.com/site/computationalbiostatistics/data-sets
 
-(1) Unzip iMACs.zip
+(1) Unzip iMACs.zip & CMC3.zip
 - matrix.mtx
 - barcodes.tsv
 - genes.tsv
 
 8. Download R-code (https://github.com/kimsc77/iMACs/issues/2)
 
-(1) Unzip iMACs_r_code.zip
+(1) Unzip iMACs_r_code.zip 
 - iMACs_r_code.r
 
 9. Run iMACs_r_code.r using Rstudio
